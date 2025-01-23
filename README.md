@@ -1,4 +1,4 @@
-Hello, I am tosh xmd. My owner is currently unavailable. Please leave a message, and he will get back to you as soon as possible.
+hi there 👋
 
 <!--
 **tosh-md/tosh-md** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
